@@ -1,11 +1,19 @@
-- 👋 ¡Hola! Soy @szerwin (Erwin Solarte Suarez)
-- 👀 Me interesa el desarrollo de software, la inteligencia artificial y las aplicaciones móviles.
-- 🌱 Actualmente estoy en el aprendizaje y fortalecimiento de lenguajes y frameworks para el desarrollo de sotfware
-- 💞️Me gustaría colaborar en proyectos de desarrollo web y aplicaciones móviles, especialmente en tecnologías como JavaScript, React, Vue, Django..
-- 📫 Pueden contartarme por medio erwintpubenza@gmail.com  --- erguinsolarte@unicomfacauca.edu.co
-- ⚡ Soy ingeniero de sistemas egresado de la corporación universitaria comfacauca UNICOMFACAUCA, de la ciudad de Popayán Cauca - Colombia, tituldo mediante la opción de grado tesis en el desarrollo
-  de una APP móvil de reconocimiento de plantas medicinales , la cúal la desarrolle manejando herramientas técnicas de python como modelos preentrenados para reconocimientos de imagenes, androidStudio con kotlin.. 
- Tambien eh realizado desarrollo con vue.js y Django , ademas de realizar practicas de implemetación de Html, css, JavaScript y react que los podran ver en los repsositorios de mi github..
+¡Hola! Soy @szerwin (Erwin Solarte Suárez)!
+Soy Ingeniero de Sistemas /Tecnólogo en Electrónica yy Tecnólogo en Electrónica y Producción Industrial , egresado de la corporación universitaria Comfacauca UNICOMFACAUCA, de la ciudad de Popayán Cauca - Colombia, titulado mediante la opción de grado tesis en el desarrollo de una APP móvil de reconocimiento de plantas medicinales, con experiencia en desarrollo web y gestión de proyectos ágiles bajo la metodología Scrum . Me destaco por crear interfaces intuitivas y eficientes, trabajar en equipo y adaptarme fácilmente a los cambios.
+Tengo habilidades en liderazgo, comunicación y resolución de conflictos, lo que me permite aportar valor tanto en roles técnicos como de coordinación.
+
+HERRAMIENTAS TECNOLÓGICAS
+HTML
+CSS
+JAVASCRIPT
+REACT
+GIT
+MYSQL
+SCRUM
+CONTACTOS:
+https://www.linkedin.com/in/erwin-solarte-suárez-ba51a331a/
+erwintpubenza@gmail.com
+erguinsolarte@unicomfacauca.edu.co
 <!---
 szerwin/szerwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
